@@ -1,4 +1,6 @@
 resume
 ======
 
-My Resume
+My Resume.
+
+Code by html+css.
