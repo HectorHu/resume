@@ -63,3 +63,105 @@ body {
 #msg-content li {
 	line-height: 30px;
 }
+
+.part-title {
+	padding-top: 10px;
+	border-bottom: 1px solid #555;
+	padding-bottom: 5px;
+}
+
+#education-msg, #internship-msg, #honors-msg, #skills-content {
+	padding-top: 10px;
+}
+
+.background {
+	width: 100px;
+	float: left;
+}
+
+.specialty {
+	width: 80px;
+	float: left;
+}
+
+.background, .specialty {
+	padding-top: 5px;
+}
+
+.fa {
+	width: 15px;
+	float: left;
+	padding-right: 5px;
+}
+
+.company-name {
+	width: 250px;
+	float: left;
+}
+
+.responsibility {
+	width: 100px;
+	float: right;
+}
+
+.position-msg {
+	clear: both;
+}
+
+.position-msg .position{
+	width: 200px;
+	float: left;
+}
+
+.position-msg .work-date {
+	width: 120px;
+	float: right;
+}
+
+.position-msg {
+	padding-top: 10px;
+}
+
+.work-content {
+	padding: 5px 0;
+}
+
+#honors-msg {
+	padding-bottom: 20px;
+}
+
+.honors-name {
+	width: 200px;
+	float: left;
+}
+
+.honors-date {
+	width: 120px;
+	float: right;
+}
+
+.compus-content {
+	padding-top: 10px;
+}
+
+#skills-content .fa {
+	padding-top: 4px;
+}
+
+#skills-content {
+	line-height: 25px;
+}
+
+.project-content {
+	padding: 10px 0;
+	line-height: 21px;
+	border-bottom: 1px dashed #BDBDBD;
+}
+
+.project-content .intro, .project-content .charge, .project-content .tools {
+	padding-top: 5px;
+}
+
+#project-exp .last {
+	border-bottom: none;
+}
