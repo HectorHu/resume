@@ -9,11 +9,11 @@ ul, li {
 
 body {
 	font-family: sans-serif;
+	page-break-after:always;
 }
 
 #container {
 	width: 1000px;
-	border: 1px solid #555;
 }
 
 #header {
@@ -65,7 +65,7 @@ body {
 }
 
 .part-title {
-	padding-top: 10px;
+	padding-top: 20px;
 	border-bottom: 1px solid #555;
 	padding-bottom: 5px;
 }
@@ -153,7 +153,7 @@ body {
 }
 
 .project-content {
-	padding: 10px 0;
+	padding: 15px 0;
 	line-height: 21px;
 	border-bottom: 1px dashed #BDBDBD;
 }
