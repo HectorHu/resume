@@ -49,6 +49,11 @@ body {
 	padding: 0 80px;
 }
 
+.element {
+	text-align: left;
+	/*width: 50px;*/
+}
+
 #personal-msg {
 	padding: 20px 0;
 }
